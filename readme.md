@@ -6,7 +6,7 @@ Keep in mind that usually capital letters and lowercase letters are in their own
 
 Also, for a metric of 0,0,0,0,0 (for example H M N), there is usually no need to make a class, as they don't need kerning. 
 
-As for kerning text, I kind of feel the large text this project generated is excessive. For a small project using kerning class, use the following:
+As for kerning text, I kind of feel the large text this project generated is excessive. For a small project using kerning class, try the following:
 
 ```AAABACASATAUAXAaAcAfAgAmAxBABB
 BCBSBTBUBXBaBcBfBgBmBxCACBCCCS
