@@ -59,6 +59,8 @@ sfsgsmsxsÌsÐsãsèsŁÌAÌBÌCÌSÌTÌU
 śSśTśUśXśaścśfśgśmśxśÌśÐśãśèśŁ
 ```
 
+## To do：
+* Add smallcap letters. They are usually not encoded by unicode inside a font and has to been turned on by font-feature, so maybe need to duplicate code and tweak rather than combine into the same data block for `2_potential_pairs.py`.
 
 
 # The Ultimate List of Kerning Pairs
