@@ -1,0 +1,240 @@
+Group by Rightside:
+========================================
+
+Group 1
+  C c Ç ç Ć ć Ĉ ĉ Ċ ċ Č č
+
+Group 2
+! 1 H I M N d i j l | Ñ ì ú û ü Ĥ ĳ ĺ Ń Ņ Ň
+
+Group 3
+" ' F f ‘ ’ ‛ “ ” ‟
+
+Group 4
+# ? P ˆ r v w y Þ ŕ ŗ ř ŵ ŷ
+
+Group 5
+$ 0 3 8 9 S Ś Ŝ Ş Š
+
+Group 6
+% 5
+
+Group 7
+&
+
+Group 8
+( {
+
+Group 9
+) Q ŧ
+
+Group 10
+* / 7 T V W Y ` Ý Ţ Ť Ŧ Ŵ Ŷ Ÿ ſ
+
+Group 11
++ - 4 6 = > B b e o p ~ ß æ è ê ë ð ò ô ÷ þ ē ĕ ė ę ě ō ŏ œ » ›
+
+Group 12
+, Ą ‚ „
+
+Group 13
+. A L \ À Á Â Ã Ä Å Ā Ă Ĺ Ļ Ł
+
+Group 14
+2 : < R t x z × Ŀ Ŕ Ŗ Ř ţ ź ż ž « ‹
+
+Group 15
+;
+
+Group 16
+@ D O Ð Ò Ó Ô Õ Ö ø Ď Đ Ō Ŏ Ő
+
+Group 17
+E Æ È É Ê Ë Ē Ĕ Ė Ę Ě Œ ť
+
+Group 18
+G g u ù Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ ı ũ ū ŭ ů ű
+
+Group 19
+J U Ù Ú Û Ü Ĳ Ĵ Ũ Ū Ŭ Ů Ű Ų
+
+Group 20
+K X Z Ķ Ľ Ź Ż Ž
+
+Group 21
+[
+
+Group 22
+] Į į Ŋ
+
+Group 23
+_
+
+Group 24
+a h m n à á â å ĥ ħ ń ņ ň ŉ
+
+Group 25
+k ķ ĸ
+
+Group 26
+q
+
+Group 27
+s ŝ ş
+
+Group 28
+}
+
+Group 29
+Ì Í Î Ï í î ï ď đ Ħ Ĩ ĩ Ī ī Ĭ ĭ İ ĵ
+
+Group 30
+Ø
+
+Group 31
+ã ä ñ ā ă
+
+Group 32
+é ó õ ö ő
+
+Group 33
+ý ÿ
+
+Group 34
+ą ŋ
+
+Group 35
+ļ
+
+Group 36
+ľ
+
+Group 37
+ŀ ł
+
+Group 38
+ś š
+
+Group 39
+ų
+
+
+
+
+
+
+
+
+
+
+Group by Leftside:
+========================================
+
+Group 1
+  3 ?
+
+Group 2
+! B D E F H I K L M N P R b h i k l | È É Ê Ë Ñ Þ í ñ Ď Ē Ĕ Ė Ę Ě Ĥ ĥ Ĳ ĳ Ķ ķ ĸ Ĺ ĺ Ļ Ľ ľ Ŀ ŀ Ń Ņ Ň Ŋ Ŕ Ŗ Ř
+
+Group 3
+" ' ‘ ’ ‛ “ ” ‟
+
+Group 4
+# & + - 4 < = c d e o q ~ ç é ê ë ó ô ÷ ć ĉ ċ č ď đ ē ĕ ė ę ě ō ŏ ő œ « ‹
+
+Group 5
+$ 0 6 8 S u ú Ś Ŝ Ş Š ũ ū ŭ ů ű ų
+
+Group 6
+% 2 : > x z × ź ż ž » ›
+
+Group 7
+( Ø
+
+Group 8
+) }
+
+Group 9
+* 7 T V W Y \ ` Ý Ţ Ť Ŧ Ŵ Ŷ Ÿ
+
+Group 10
+, ‚ „
+
+Group 11
+. / A J À Á Â Ã Ä Å Æ Ā Ă Ą Ĵ
+
+Group 12
+1 9 ˆ f t v w ţ ť ŧ ŵ ſ
+
+Group 13
+5
+
+Group 14
+;
+
+Group 15
+@ C G O Q Ç Ò Ó Ô Õ Ö Ć Ĉ Ċ Č Ĝ Ğ Ġ Ģ Ō Ŏ Ő Œ
+
+Group 16
+U Ù Ú Û Ü ù û ü Ũ Ū Ŭ Ů Ű Ų
+
+Group 17
+X Z Ź Ż Ž
+
+Group 18
+[ þ
+
+Group 19
+]
+
+Group 20
+_
+
+Group 21
+a s à á â å æ ą ś ŝ ş
+
+Group 22
+g ĝ ğ ġ ģ
+
+Group 23
+j Į į ļ
+
+Group 24
+m n r ß ı ń ņ ň ŋ ŕ ř
+
+Group 25
+p
+
+Group 26
+y ý ŷ
+
+Group 27
+{
+
+Group 28
+Ì Í Î Ï ì î ï Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ İ ŉ
+
+Group 29
+Ð Đ
+
+Group 30
+ã ä ā ă š
+
+Group 31
+è ð ò õ ö
+
+Group 32
+ø
+
+Group 33
+ÿ
+
+Group 34
+ĵ
+
+Group 35
+Ł ł
+
+Group 36
+ŗ
+

@@ -1,3 +1,66 @@
+# Note
+
+Step (2) could be used as a starting point for creating kerning classes. Modify `2_potential_pairs.py` line 381 "font-family:" to set your font as the background, run the script and print the output html, mark any metrics that should be changed, change the numbers in `2A_potential_pairs_grouping.py` and get your kerning classes by running it. 
+
+Keep in mind that usually capital letters and lowercase letters are in their own classes and mixing them together could be a little confusing. To do this, just divide the data and run the script twice. 
+
+Also, for a metric of 0,0,0,0,0 (for example H M N), there is usually no need to make a class, as they don't need kerning. 
+
+As for kerning text, I kind of feel the large text this project generated is excessive. For a small project using kerning class, use the following:
+
+```AAABACASATAUAXAaAcAfAgAmAxBABB
+BCBSBTBUBXBaBcBfBgBmBxCACBCCCS
+CTCUCXCaCcCfCgCmCxDADBDCDSDTDU
+DXDaDcDfDgDmDxEAEBECESETEUEXEa
+EcEfEgEmExFAFBFCFSFTFUFXFaFcFf
+FgFmFxGAGBGCGSGTGUGXGaGcGfGgGm
+GxHAHBHCHSHTHUHXHaHcHfHgHmHxJA
+JBJCJSJTJUJXJaJcJfJgJmJxKAKBKC
+KSKTKUKXKaKcKfKgKmKxPAPBPCPSPT
+PUPXPaPcPfPgPmPxQAQBQCQSQTQUQX
+QaQcQfQgQmQxRARBRCRSRTRURXRaRc
+RfRgRmRxSASBSCSSSTSUSXSaScSfSg
+SmSxTATBTCTSTTTUTXTaTcTfTgTmTx
+aAaBaCaSaTaUaXaaacafagamaxkAkB
+kCkSkTkUkXkakckfkgkmkxsAsBsCsS
+```
+
+Or a more extensive one:
+
+```AAABACASATAUAXAaAcAfAgAmAxAÌAÐ
+AãAèAŁBABBBCBSBTBUBXBaBcBfBgBm
+BxBÌBÐBãBèBŁCACBCCCSCTCUCXCaCc
+CfCgCmCxCÌCÐCãCèCŁDADBDCDSDTDU
+DXDaDcDfDgDmDxDÌDÐDãDèDŁEAEBEC
+ESETEUEXEaEcEfEgEmExEÌEÐEãEèEŁ
+FAFBFCFSFTFUFXFaFcFfFgFmFxFÌFÐ
+FãFèFŁGAGBGCGSGTGUGXGaGcGfGgGm
+GxGÌGÐGãGèGŁHAHBHCHSHTHUHXHaHc
+HfHgHmHxHÌHÐHãHèHŁJAJBJCJSJTJU
+JXJaJcJfJgJmJxJÌJÐJãJèJŁKAKBKC
+KSKTKUKXKaKcKfKgKmKxKÌKÐKãKèKŁ
+PAPBPCPSPTPUPXPaPcPfPgPmPxPÌPÐ
+PãPèPŁQAQBQCQSQTQUQXQaQcQfQgQm
+QxQÌQÐQãQèQŁRARBRCRSRTRURXRaRc
+RfRgRmRxRÌRÐRãRèRŁSASBSCSSSTSU
+SXSaScSfSgSmSxSÌSÐSãSèSŁTATBTC
+TSTTTUTXTaTcTfTgTmTxTÌTÐTãTèTŁ
+aAaBaCaSaTaUaXaaacafagamaxaÌaÐ
+aãaèaŁkAkBkCkSkTkUkXkakckfkgkm
+kxkÌkÐkãkèkŁsAsBsCsSsTsUsXsasc
+sfsgsmsxsÌsÐsãsèsŁÌAÌBÌCÌSÌTÌU
+ÌXÌaÌcÌfÌgÌmÌxÌÌÌÐÌãÌèÌŁãAãBãC
+ãSãTãUãXãaãcãfãgãmãxãÌãÐãããèãŁ
+éAéBéCéSéTéUéXéaécéfégéméxéÌéÐ
+éãéèéŁýAýBýCýSýTýUýXýaýcýfýgým
+ýxýÌýÐýãýèýŁľAľBľCľSľTľUľXľaľc
+ľfľgľmľxľÌľÐľãľèľŁŀAŀBŀCŀSŀTŀU
+ŀXŀaŀcŀfŀgŀmŀxŀÌŀÐŀãŀèŀŁśAśBśC
+śSśTśUśXśaścśfśgśmśxśÌśÐśãśèśŁ
+```
+
+
+
 # The Ultimate List of Kerning Pairs
 
 #### Table Of Content
@@ -157,4 +220,4 @@ To Do:
 * Occurrence vs. Appearance (TRANSLATION)
 * Personal Additions
     *     - Comparison with other lists/quotes/references
--->
+    -->

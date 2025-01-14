@@ -1,0 +1,146 @@
+Group by Rightside:
+========================================
+
+Group 1
+A L À Á Â Ã Ä Å Ā Ă Ą Ĺ Ļ Ł
+
+Group 2
+B b e o p ß æ è ê ë ð ò ô ÷ þ ē ĕ ė ę ě ō ŏ œ
+
+Group 3
+C c Ç ç Ć ć Ĉ ĉ Ċ ċ Č č
+
+Group 4
+D O Ð Ò Ó Ô Õ Ö ø Ď Đ Ō Ŏ Ő
+
+Group 5
+E Æ È É Ê Ë Ē Ĕ Ė Ę Ě Œ ť
+
+Group 6
+F f
+
+Group 7
+G g q u ù Ĝ ĝ Ğ ğ Ġ ġ Ģ ģ ı ũ ū ŭ ů ű ų
+
+Group 9
+J U Ù Ú Û Ü Ĳ Ĵ Ũ Ū Ŭ Ů Ű Ų
+
+Group 10
+K X Z Ķ Ľ Ź Ż Ž
+
+Group 11
+P r v w y Þ ŕ ŗ ř ŵ ŷ ý ÿ
+
+Group 12
+Q ŧ
+
+Group 13
+R t x z × Ŀ Ŕ Ŗ Ř ţ ź ż ž
+
+Group 14
+S Ś Ŝ Ş Š
+
+Group 15
+T V W Y Ý Ţ Ť Ŧ Ŵ Ŷ Ÿ ſ
+
+Group 16
+a h m n à á â å ą ĥ ħ ń ņ ň ŉ ŋ
+
+Group 17
+k ķ ĸ
+
+Group 18
+s ŝ ş ś š
+
+Group 19
+I Ì Í Î Ï í î ï ď đ Ħ Ĩ ĩ Ī ī Ĭ ĭ İ ĵ i j ĳ
+
+Group 20
+Ø
+
+Group 21
+ã ä ñ ā ă
+
+Group 22
+é ó õ ö ő
+
+Group 23
+ľ
+
+Group 24
+ŀ ł
+
+------------------
+No Group
+H M N d l Ñ ì ú û ü Ĥ Į į ĺ ļ Ń Ņ Ň Ŋ
+
+
+
+
+
+
+
+
+Group by Leftside:
+========================================
+
+Group 1
+A J À Á Â Ã Ä Å Æ Ā Ă Ą Ĵ
+
+Group 2
+C G O Q Ç Ò Ó Ô Õ Ö Ć Ĉ Ċ Č Ĝ Ğ Ġ Ģ Ō Ŏ Ő Œ
+
+Group 3
+S u ú Ś Ŝ Ş Š ũ ū ŭ ů ű ų
+
+Group 4
+T V W Y Ý Ţ Ť Ŧ Ŵ Ŷ Ÿ
+
+Group 5
+U Ù Ú Û Ü ù û ü Ũ Ū Ŭ Ů Ű Ų
+
+Group 6
+X Z Ź Ż Ž
+
+Group 7
+a s à á â å æ ą ś ŝ ş
+
+Group 8
+c d e o q ç é ê ë ó ô ÷ ć ĉ ċ č ď đ ē ĕ ė ę ě ō ŏ ő œ
+
+Group 9
+f t v w y ý ţ ť ŧ ŵ ŷ ſ ÿ
+
+Group 10
+g ĝ ğ ġ ģ
+
+Group 11
+m n p r ß ı ń ņ ň ŋ ŕ ŗ ř
+
+Group 12
+x z × ź ż ž
+
+Group 13
+Ì Í Î Ï ì î ï Ħ ħ Ĩ ĩ Ī ī Ĭ ĭ İ ĵ ŉ
+
+Group 14
+Ð Đ Ł ł
+
+Group 15
+ã ä ā ă š
+
+Group 16
+è ð ò õ ö
+
+-------------
+No Group
+B D E F H I K L M N P R b h i j k l È É Ê Ë Ñ Þ í ñ þ Ď Ē Ĕ Ė Ę Ě Ĥ ĥ Į į Ĳ ĳ Ķ ķ ĸ Ĺ ĺ Ļ ļ Ľ ľ Ŀ ŀ Ń Ņ Ň Ŋ Ŕ Ŗ Ř
+
+No Group 
+Ø
+
+No Group
+ø
+
+
+
