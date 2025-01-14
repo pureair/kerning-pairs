@@ -1,0 +1,174 @@
+Group by Rightside:
+========================================
+
+Group 1
+A L
+
+Group 2
+B
+
+Group 3
+C
+
+Group 4
+D O
+
+Group 5
+E
+
+Group 6
+F
+
+Group 7
+G
+
+Group 8
+H I M N
+
+Group 9
+J U
+
+Group 10
+K X Z
+
+Group 11
+P
+
+Group 12
+Q
+
+Group 13
+R
+
+Group 14
+S
+
+Group 15
+T V W Y
+
+Group 1
+a h m n
+
+Group 2
+b e o p
+
+Group 3
+c
+
+Group 4
+d i j l
+
+Group 5
+f
+
+Group 6
+g q u
+
+Group 7
+k
+
+Group 8
+r v w y
+
+Group 9
+s
+
+Group 10
+t x z
+
+
+
+
+
+
+
+
+
+
+Group by Leftside:
+========================================
+
+Group 1
+A J
+
+Group 2
+B D E F H I K L M N P R
+
+Group 3
+C G O Q
+
+Group 4
+S
+
+Group 5
+T V W Y
+
+Group 6
+U
+
+Group 7
+X Z
+
+Group 1
+a s
+
+Group 2
+b h i j k l
+
+Group 3
+c d e o q
+
+Group 4
+f t v w y
+
+Group 5
+g
+
+Group 6
+m n p r
+
+Group 7
+u
+
+Group 8
+x z
+
+
+
+
+
+
+
+
+
+
+Combinations (Rightside + Leftside):
+========================================
+AAABACASATAUAXBABBBCBSBTBUBXCA
+CBCCCSCTCUCXDADBDCDSDTDUDXEAEB
+ECESETEUEXFAFBFCFSFTFUFXGAGBGC
+GSGTGUGXHAHBHCHSHTHUHXJAJBJCJS
+JTJUJXKAKBKCKSKTKUKXPAPBPCPSPT
+PUPXQAQBQCQSQTQUQXRARBRCRSRTRU
+RXSASBSCSSSTSUSXTATBTCTSTTTUTX
+
+aAaBaCaSaTaUaXbAbBbCbSbTbUbXcA
+cBcCcScTcUcXdAdBdCdSdTdUdXfAfB
+fCfSfTfUfXgAgBgCgSgTgUgXkAkBkC
+kSkTkUkXrArBrCrSrTrUrXsAsBsCsS
+sTsUsXtAtBtCtStTtUtX
+AaAbAcAfAgAmAuAxBaBbBcBfBgBmBu
+BxCaCbCcCfCgCmCuCxDaDbDcDfDgDm
+DuDxEaEbEcEfEgEmEuExFaFbFcFfFg
+FmFuFxGaGbGcGfGgGmGuGxHaHbHcHf
+HgHmHuHxJaJbJcJfJgJmJuJxKaKbKc
+KfKgKmKuKxPaPbPcPfPgPmPuPxQaQb
+QcQfQgQmQuQxRaRbRcRfRgRmRuRxSa
+SbScSfSgSmSuSxTaTbTcTfTgTmTuTx
+
+aaabacafagamauaxbabbbcbfbgbmbu
+bxcacbcccfcgcmcucxdadbdcdfdgdm
+dudxfafbfcfffgfmfufxgagbgcgfgg
+gmgugxkakbkckfkgkmkukxrarbrcrf
+rgrmrurxsasbscsfsgsmsusxtatbtc
+tftgtmtutx
