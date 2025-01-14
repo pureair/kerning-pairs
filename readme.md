@@ -59,7 +59,43 @@ sfsgsmsxsÌsÐsãsèsŁÌAÌBÌCÌSÌTÌU
 śSśTśUśXśaścśfśgśmśxśÌśÐśãśèśŁ
 ```
 
+For case sensitive kerning classes:
+
+```
+AAABACASATAUAXBABBBCBSBTBUBXCA
+CBCCCSCTCUCXDADBDCDSDTDUDXEAEB
+ECESETEUEXFAFBFCFSFTFUFXGAGBGC
+GSGTGUGXHAHBHCHSHTHUHXJAJBJCJS
+JTJUJXKAKBKCKSKTKUKXPAPBPCPSPT
+PUPXQAQBQCQSQTQUQXRARBRCRSRTRU
+RXSASBSCSSSTSUSXTATBTCTSTTTUTX
+aAaBaCaSaTaUaXbAbBbCbSbTbUbXcA
+cBcCcScTcUcXdAdBdCdSdTdUdXfAfB
+fCfSfTfUfXgAgBgCgSgTgUgXkAkBkC
+kSkTkUkXrArBrCrSrTrUrXsAsBsCsS
+sTsUsXtAtBtCtStTtUtX
+AaAbAcAfAgAmAuAxBaBbBcBfBgBmBu
+BxCaCbCcCfCgCmCuCxDaDbDcDfDgDm
+DuDxEaEbEcEfEgEmEuExFaFbFcFfFg
+FmFuFxGaGbGcGfGgGmGuGxHaHbHcHf
+HgHmHuHxJaJbJcJfJgJmJuJxKaKbKc
+KfKgKmKuKxPaPbPcPfPgPmPuPxQaQb
+QcQfQgQmQuQxRaRbRcRfRgRmRuRxSa
+SbScSfSgSmSuSxTaTbTcTfTgTmTuTx
+aaabacafagamauaxbabbbcbfbgbmbu
+bxcacbcccfcgcmcucxdadbdcdfdgdm
+dudxfafbfcfffgfmfufxgagbgcgfgg
+gmgugxkakbkckfkgkmkukxrarbrcrf
+rgrmrurxsasbscsfsgsmsusxtatbtc
+tftgtmtutx
+```
+
+
+
+
+
 ## To do：
+
 * Add smallcap letters. They are usually not encoded by unicode inside a font and has to been turned on by font-feature, so maybe need to duplicate code and tweak rather than combine into the same data block for `2_potential_pairs.py`.
 
 
